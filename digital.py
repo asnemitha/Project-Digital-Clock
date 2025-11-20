@@ -11,7 +11,7 @@ class DigitalClock(QWidget):
 
     def initUI(self):
         self.setWindowTitle('Digital Clock')
-        self.setGeometry(600, 400, 300, 100)
+        self.setGeometry(1000, 400, 300, 100)
 
         vbox = QVBoxLayout()
         vbox.addWidget(self.time_label)
@@ -39,3 +39,4 @@ if __name__ == '__main__':
     clock = DigitalClock()
     clock.show()
     sys.exit(app.exec_())
+

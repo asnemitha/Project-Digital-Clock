@@ -20,7 +20,7 @@ This project displays the current system time in a real-time updating GUI.
 1. Clone the repository:
 
 git clone 
-https://github.com/asnemitha/digital-clock.git
+https://github.com/asnemitha/Project-Digital-Clock.git
 cd digital-clock
 
 2. Install required package:
